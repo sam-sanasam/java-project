@@ -8,11 +8,18 @@ If the parameter **kilometersPerHour** is less than **0**, the method **toMilesP
 Otherwise, if it is **positive**, calculate the **values of the miles per hour** , **round it and return it**. 
 
 Condtion 2:
+
 Write a method called printCOnversion with 1 parameter of type double with the name kilometerPerHour.
-This method should not return anything and it needs to calculate milesPerHour from the kilometerPerHour parameter. It need to print a message in the format "XX km/h = YY mi/h"
+This method should not return anything and it needs to calculate milesPerHour from the kilometerPerHour parameter. 
+It need to print a message in the format "XX km/h = YY mi/h"
+
 XX represent the original value kilometerPerHour
+
 YY represent the round milesPerHour from the kilometerPerhOur parameter.
+
 If the kilometesPerHour is <0, then print the text "invalidValue"
+
+
 
 
 
