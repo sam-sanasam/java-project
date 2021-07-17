@@ -29,3 +29,10 @@ Steps:
 2. Create the 2nd method as void class, print the retur of the calculation
 3. Create another class called **main**, call both the class and validate it.
 
+**NOTE**
+1. Write a class to define the class
+2. Write a main class to validate above class.
+* this code will define the how to call a method to another class.
+* to call a method from another class.
+class_name.method_name()
+
